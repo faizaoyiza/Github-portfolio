@@ -108,3 +108,6 @@ h2 {
 .footer__social-links img:hover {
   transform: scale(1.2);
 }
+section.about {
+  text-align: center;
+}
